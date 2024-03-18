@@ -1,11 +1,8 @@
 # Stock-Market-Analysis
 About the Project
 Steps involved in this project
-Made with Python Made with love ForTheBadge built-with-swag
+Made with Python 
 
-Explanation
-Libraries Used
-R Studio R Studio R Studio R Studio R Studio R Studio R Studio
 
 Installation
 Install randomForest using pip command: install.packages("randomForest")
