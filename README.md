@@ -4,8 +4,15 @@ Steps involved in this project
 Made with Python 
 
 
-Installation
-Install randomForest using pip command: install.packages("randomForest")
-Install caret using pip command: install.packages("caret")
-Install mlr using pip command: install.packages("mlr")
-Install MASS using pip command: install.packages("MASS")
+Libraries Used
+
+![Static Badge](https://img.shields.io/badge/Randomforest-blue)
+
+![Static Badge](https://img.shields.io/badge/caret_lib-blue)
+
+![Static Badge](https://img.shields.io/badge/mlr-blue)
+
+![Static Badge](https://img.shields.io/badge/stringr-blue)
+
+![Static Badge](https://img.shields.io/badge/dplyr-blue)
+
