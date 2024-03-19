@@ -1,6 +1,6 @@
 # Stock-Market-Analysis
 # About the Project
- This projec ist Made with Python 
+ This projec is Made with Python 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20yellow)
 
 
