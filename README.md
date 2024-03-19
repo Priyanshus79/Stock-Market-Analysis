@@ -1,10 +1,10 @@
 # Stock-Market-Analysis
-About the Project
-Steps involved in this project
-Made with Python 
+# About the Project
+ This projec ist Made with Python 
+![Static Badge](https://img.shields.io/badge/Python%20-%20yellow)
 
 
-Libraries Used
+# Libraries Used
 
 ![Static Badge](https://img.shields.io/badge/Randomforest-blue)
 
